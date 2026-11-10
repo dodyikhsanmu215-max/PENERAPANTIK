@@ -18,7 +18,7 @@ body {
     width: 150px;
     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingakran sempurna */
 }
-.kartu-profil [
+.kartu-profil {
     /* ... (kode dari slide sebelumnya) ... */
     teks-align: center; /* Menengahkan semua teks di dalam kartu */
 }
